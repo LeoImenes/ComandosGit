@@ -25,7 +25,7 @@
 
 <h3 style="font-size:1.4em" align="center">6.	Após configurar o Usuario e e-mail, no Git Bash da sua pasta que vai ser o repositório, digite: <br> <br>
 
-<b>git init </b>   // que vai criar um repositório vazio  e você poderá adicionar arquivos normalmente na pasta:
+<b>git init </b>  &#160; // que vai criar um repositório vazio  e você poderá adicionar arquivos normalmente na pasta:
 </h3>
 <br>
 <img src="assets\gitinit.PNG" width="950px" height="400px">
